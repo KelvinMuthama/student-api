@@ -1,0 +1,9 @@
+[
+  { "admission": 2, "name": "Dennis Baiya", "gender": "Male" },
+  { "admission": 3, "name": "Tabitha Wambui", "gender": "Female" },
+  { "admission": 4, "name": "Billy Kamau", "gender": "Male" },
+  { "admission": 5, "name": "Grace Wanjiku", "gender": "Female" },
+  { "admission": 6, "name": "Wairimu", "gender": "Female" },
+  { "admission": 7, "name": "Benson", "gender": "Male" },
+  { "admission": 9, "name": "Arvin", "gender": "Male" }
+]
